@@ -1,6 +1,6 @@
 <h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://giphy.com/gifs/computer-technology-ai-gEKz4VLX7fQlsl8SFE" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img align='right' src="https://giphy.com/stickers/fluffyhouse-love-fZYAESSjtoSU2bnWnV" width="230">
+<p><em>Software Enginner at <a href="https://estacio.br/">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: WallaceSoaress](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
@@ -13,8 +13,7 @@
 ```javascript
 const wallace = {
   code: [Javascript, Typescript, HTML, CSS, C#, Python],
-  tools: [React, Redux, Node, Styled-Components],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  tools: [React, Redux, Node, Styled-Components]
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
