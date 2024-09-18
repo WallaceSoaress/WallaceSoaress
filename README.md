@@ -1,5 +1,5 @@
 <h2> Hi, I'm WallaceSoaress! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.gifer.com/3BBS.gif" width="330">
+<img align='right' src="https://i.gifer.com/3BBS.gif" width="250">
 <p><em>Software Enginner at <a href="https://estacio.br/">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://novetech.com.br/">Novetech Technological Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
