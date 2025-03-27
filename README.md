@@ -11,7 +11,7 @@
 
 ```javascript
 const wallace = {
-  code: [Javascript, Typescript, HTML, CSS, C#, Python],
+  code: [Javascript, Typescript, HTML, CSS, C#],
   tools: [React, Redux, Node, Styled-Components]
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
