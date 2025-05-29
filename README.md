@@ -17,5 +17,3 @@ const wallace = {
 }
 ```
 ---
-
-<a href="https://app.rocketseat.com.br/me/wallace-soares"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=wallace-soares&type=card" width="280" alt="Wallace Pereira Soares's Rocket ID"/></a>
