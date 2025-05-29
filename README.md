@@ -3,8 +3,6 @@
 <p><em>Software Enginner at <a href="https://estacio.br/">University of João Pessoa</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://novetech.com.br/">Novetech Technological Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://app.rocketseat.com.br/me/wallace-soares"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=wallace-soares&type=card" width="280" alt="Wallace Pereira Soares's Rocket ID"/></a>
-
 [![Linkedin: WallaceSoaress](https://img.shields.io/badge/-wallacepsoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallacepsoares/)](https://www.linkedin.com/in/wallacepsoares/)
 [![GitHub WallaceSoaress](https://img.shields.io/github/followers/WallaceSoaress?label=follow&style=social)](https://github.com/WallaceSoaress)
 
@@ -19,3 +17,5 @@ const wallace = {
 }
 ```
 ---
+
+<a href="https://app.rocketseat.com.br/me/wallace-soares"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=wallace-soares&type=card" width="280" alt="Wallace Pereira Soares's Rocket ID"/></a>
