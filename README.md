@@ -11,29 +11,19 @@
 
 ```javascript
 const wallace = {
-  languages: ["JavaScript", "TypeScript", "C#", "HTML", "CSS"],
+  role: "Full Stack Developer",
+
+  stack: {
+    frontend: ["React", "Next.js", "React Native", "Electron"],
+    backend: ["Node.js", ".NET", "REST APIs", "WebSocket"],
+    database: ["PostgreSQL"],
+  },
+
+  languages: ["JavaScript", "TypeScript", "C#"],
   
-  frameworks: [
-    "React",
-    "Next.js",
-    "React Native",
-    "Electron",
-    ".NET"
-  ],
+  tools: ["Docker", "Git", "Redux", "Styled-Components"],
 
-  tools: [
-    "Node.js",
-    "Redux",
-    "Styled-Components",
-    "Docker",
-    "Git"
-  ],
-
-  backend: ["REST", "WebSocket"],
-
-  database: ["PostgreSQL"],
-
-  challenge: "Currently doing #100DaysOfCode focused on React and TypeScript"
+  challenge: "#100DaysOfCode (React + TypeScript focus)"
 };
 ```
 ---
