@@ -16,7 +16,7 @@ const wallace = {
   stack: {
     frontend: ["React", "Next.js", "React Native", "Electron"],
     backend: ["Node.js", ".NET", "REST APIs", "WebSocket"],
-    database: ["PostgreSQL"],
+    database: ["PostgreSQL", "MariaDB", "MySQL"],
   },
 
   languages: ["JavaScript", "TypeScript", "C#"],
