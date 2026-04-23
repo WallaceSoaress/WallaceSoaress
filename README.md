@@ -11,9 +11,29 @@
 
 ```javascript
 const wallace = {
-  code: [Javascript, Typescript, HTML, CSS, C#],
-  tools: [React, Redux, Node, Styled-Components]
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+  languages: ["JavaScript", "TypeScript", "C#", "HTML", "CSS"],
+  
+  frameworks: [
+    "React",
+    "Next.js",
+    "React Native",
+    "Electron",
+    ".NET"
+  ],
+
+  tools: [
+    "Node.js",
+    "Redux",
+    "Styled-Components",
+    "Docker",
+    "Git"
+  ],
+
+  backend: ["REST", "WebSocket"],
+
+  database: ["PostgreSQL"],
+
+  challenge: "Currently doing #100DaysOfCode focused on React and TypeScript"
+};
 ```
 ---
